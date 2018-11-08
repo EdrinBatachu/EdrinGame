@@ -38,7 +38,7 @@ while (complete == 0): # Loops
 
     elif (again == "no") or (again == "n"):
 
-        complete = 1 # Ends
+        complete = 1 # End
 
     
         
