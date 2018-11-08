@@ -1,4 +1,4 @@
-complete = 0 # Says whether the program is done or not!
+complete = 0 # Says whether the program is done or not
 
 from math import pi # Defines pi
 
