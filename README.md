@@ -1,2 +1,2 @@
-https://www.edrin.me/
+https://edrin.me/
 :)
